@@ -1,7 +1,7 @@
-# Simple Neural Network with NumPy without Deep Learning Framework
+# Simple Neural Network with NumPy
 
-This project is a **simple 3-layer neural network implemented using only NumPy**,  
-**without any deep learning frameworks** like TensorFlow or PyTorch.
+This is a **simple 3-layer neural network implemented using only NumPy**,  
+**without deep learning frameworks** like TensorFlow or PyTorch.
 
 Only **forward propagation** is implemented to demonstrate the core concepts of neural networks.
 
@@ -93,8 +93,9 @@ By subtracting the maximum value, we maintain numerical stability
 
 <br>
 
-<img width="269" alt="image" src="https://github.com/user-attachments/assets/01f21145-40e8-4513-b266-18613928e444" /><br>
-<img width="277" alt="image" src="https://github.com/user-attachments/assets/0d9e4e6e-d7bf-4506-a347-58d3905cb040" />
+<img width="336" alt="image" src="https://github.com/user-attachments/assets/e78cb98b-8421-4200-a3af-1073dad4f40f" /><br>
+<img width="301" alt="image" src="https://github.com/user-attachments/assets/fba9a07a-335d-4137-b443-a29fd89c9ccc" /><br>
+<img width="322" alt="image" src="https://github.com/user-attachments/assets/21c46edf-fcf9-40f0-9e3f-bf644bd68db2" />
 
 This trick ensures **stable computation while preserving the same probability distribution**.
 
